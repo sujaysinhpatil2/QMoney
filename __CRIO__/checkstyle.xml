@@ -243,6 +243,10 @@
     </module>
   </module>
 
+  <module name="SuppressWithNearbyCommentFilter"/>
+
+  <module name="SuppressWarningsFilter"/>
+  <module name="SuppressionCommentFilter" />
 
 
   <property name="fileExtensions" value="java, properties, xml"/>
